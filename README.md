@@ -4,5 +4,5 @@ Este repositorio es para los trabajos relacionados con la asignatura Desarrollo 
 Los tres trabajos desarrollados son los siguientes:
 
 * [Clustering](https://github.com/Xiul109/DSI/tree/master/clustering)
-* Predicción
+* [Predicción](https://github.com/Xiul109/DSI/tree/master/prediccion)
 * Trabajo final
