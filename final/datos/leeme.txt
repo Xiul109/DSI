@@ -1,0 +1,1 @@
+Introduce en esta carpeta el fichero "algebra_2005_2006_train.txt" 

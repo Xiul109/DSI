@@ -5,4 +5,4 @@ Los tres trabajos desarrollados son los siguientes:
 
 * [Clustering](https://github.com/Xiul109/DSI/tree/master/clustering)
 * [Predicción](https://github.com/Xiul109/DSI/tree/master/prediccion)
-* Trabajo final
+* [Trabajo final](https://github.com/Xiul109/DSI/tree/master/final)
